@@ -1,0 +1,96 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.head{
+	width: 1080px;
+	height: 168px;
+	background-color: #42B5E7
+}
+.head-left{
+	font-weight: 300;
+	margin-left: 50px;
+	font-size: 53px;
+	font: '苹方''微软雅黑';
+	float: left;
+	color: #fff;
+	line-height: 168px
+}
+.head-right{
+	width: 13px;
+	height: 53px;
+	float: right;
+	margin-right: 65px;
+	margin-top: 57.5px
+}	
+.head-yuan{
+	width: 13px;
+	height: 13px;
+	background-color: #fff;
+	border-radius: 50%
+}
+.yuan1{
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+.xianshi{
+	width: 1080px;
+	height: 560px;
+	background-color: #fff
+}
+.xianshi-head{
+	width: 4px;
+	height: 165px;
+	background-color: #42B5E7;
+	float: right;
+	margin-right: 33px;
+	margin-top: 28px
+}
+.lishi{
+	width: 1080px;
+	height: 102px;
+	background-color: #dfe3e4;
+	overflow: hidden;
+
+}
+.lishi-jiantou{
+	width: 64px;
+	height: 31px;
+	margin: 0 auto;
+	margin-top: 34px
+}
+.jianpan{
+	width: 1080px;
+	height: 1089px;
+	background-color: #ccc
+}
+.anniu{
+	width: 265px;
+	height: 214px;
+	background-color:  #fff;
+	float: left;
+	margin-right: 6px;
+	margin-bottom: 6px;
+	font-size: 100px;
+	font-weight: 100;
+	color: #00A5C4;
+	line-height: 214px;
+	text-align: center
+}
+.anniu2{
+	width: 266px;
+	height: 214px;
+}
+.anniu1{
+	margin-right: 0px
+}
+.anniu3{
+	height: 209px;
+}
+.huise{
+	background-color: #F2F4F4
+}
+.C{
+	color: #5095D7;
+	font-weight: 100
+}
